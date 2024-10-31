@@ -1,0 +1,7 @@
+PySide6>=6.0.0
+openai>=1.0.0
+pyperclip>=1.8.0
+langdetect>=1.0.9
+Markdown>=3.4.0
+replicate>=0.11.0
+requests>=2.31.0
