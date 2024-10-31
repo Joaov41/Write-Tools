@@ -35,6 +35,6 @@ It is possible to engage in Q&A about the selected text.
 
 Generate image option will create an image with FLux dev or Pro and display it on the UI, with an option to downloaded the image. 
 
-
+If you want to run it without it opening a terminal window, use Automator - Run Shell Script.
 
 Distributed under the MIT License. See LICENSE for details.
